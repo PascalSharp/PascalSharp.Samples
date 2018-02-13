@@ -1,0 +1,2 @@
+# PascalSharp (Pascal#)
+Modern Pascal on .NET Platform for all. This repository consists of all samples that go along with the IDE and showcase different aspects of the language, IDE or standard library.
